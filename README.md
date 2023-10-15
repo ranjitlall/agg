@@ -4,7 +4,7 @@ The Accountability in Global Governance (AGG) dataset measures the strength of f
 
 The dataset, which is available in CSV format, was introduced in my article "Making Global Governance Accountable." Please use the following citation:
 
-Lall, Ranjit. 2023. Making Global Governance Accountable: Civil Society, States, and the Politics of Reform. _American Journal of Political Science_.
+Lall, Ranjit. 2023. ["Making Global Governance Accountable: Civil Society, States, and the Politics of Reform."](https://ranjitlall.github.io/assets/pdf/Lall%202023%20AJPS%20Online.pdf) _American Journal of Political Science_.
 
 This repository also contains a codebook that provides a detailed description of all variables in the database, including their definition, scale, and sources.
 
